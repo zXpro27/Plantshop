@@ -198,7 +198,7 @@ ScrollReveal().reveal('.home-img', {
 ScrollReveal().reveal('.home-social', {
   delay: 600
 });
-ScrollReveal().reveal('.about-img, .contact-box, .ft', {
+ScrollReveal().reveal('.about-img, .contact-box', {
   origin: 'left'
 });
 ScrollReveal().reveal('.about-data, .contact-form', {
