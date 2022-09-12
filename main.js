@@ -207,4 +207,3 @@ ScrollReveal().reveal('.about-data, .contact-form', {
 ScrollReveal().reveal('.steps-card, .product-card, .questions-group', {
   interval: 100
 });
-ScrollReveal().reveal('.nav-link');
