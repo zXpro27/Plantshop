@@ -251,7 +251,7 @@ main {
 
 .show-menu {
   right: 0;
-  border-left: #fff;
+  border-left: 1px solid #fff;
 }
 
 .nav-close {
