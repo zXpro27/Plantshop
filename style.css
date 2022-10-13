@@ -236,7 +236,7 @@ main {
     height: 335px;
     top: 0;
     right: -100%;
-    background: #3b3b3b;
+    background: var(--bodyColor);
     box-shadow: -2px 0 4px hsl(var(--hue), 24%, 15%, .1);
     padding: 4rem 0 0 3rem;
     border-radius: 1rem 0 0 1rem;
